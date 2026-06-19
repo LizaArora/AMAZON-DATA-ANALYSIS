@@ -38,11 +38,6 @@ This project was built applying AI Product Management thinking — treating data
 - Customer segmentation framework (Platinum/Gold/Silver/Bronze)
 - Retention strategy recommendations
 
-## 🛠️ Tools Used
-
-- Python (Pandas, data analysis)
-- Excel / Dashboard visualization
-- RICE Prioritization Framework
 
 ## 📋 Key Findings
 
