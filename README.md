@@ -8,6 +8,8 @@ This project was built applying AI Product Management thinking — treating data
 
 **📄 [Read the Full Case Study (PDF)](https://drive.google.com/file/d/1Vy7nVKnU8uUhS_fNyYKykuiorxPFg6nD/view)**
 
+**📄 [Read the Full User story (PDF)](https://drive.google.com/file/d/1sahAC1kp_1EPBpu-s-UXk9rL-PzCvvy5/view?usp=sharing)**
+
 **Key PM Decisions:**
 - Flagged a critical 2013 data anomaly before drawing any conclusions — data integrity first
 - Used RICE scoring to prioritize 5 strategic recommendations
